@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2019-01-21 22:21:10 +0100
+---
+Another day, another developer blog. I have been wanting to roll out my own blog for a while now; but I never got around to actually doing it. Recently, though, a few thoughts have been occupying the space behind my eyes and it feels like it's time to write them down---hence the title of this blog!
+
+For now, the blog is very basic. Looking into [Jekyll themes][jekyll-themes] is high on my list, though. Maybe you are in the future and looking at a more elegant version of this site. Either way: Greetings, dear reader!
+
+[jekyll-themes]: http://jekyllthemes.org
